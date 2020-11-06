@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Surfboy678/ewidencja.github.io.git/static/css/main.f4bc1fdf.chunk.css",
-    "main.js": "/Surfboy678/ewidencja.github.io.git/static/js/main.fbf28e0f.chunk.js",
-    "main.js.map": "/Surfboy678/ewidencja.github.io.git/static/js/main.fbf28e0f.chunk.js.map",
-    "runtime-main.js": "/Surfboy678/ewidencja.github.io.git/static/js/runtime-main.750bb9fa.js",
-    "runtime-main.js.map": "/Surfboy678/ewidencja.github.io.git/static/js/runtime-main.750bb9fa.js.map",
-    "static/js/2.def6849f.chunk.js": "/Surfboy678/ewidencja.github.io.git/static/js/2.def6849f.chunk.js",
-    "static/js/2.def6849f.chunk.js.map": "/Surfboy678/ewidencja.github.io.git/static/js/2.def6849f.chunk.js.map",
-    "index.html": "/Surfboy678/ewidencja.github.io.git/index.html",
-    "precache-manifest.e33775b3f86b90f613834c47402732a9.js": "/Surfboy678/ewidencja.github.io.git/precache-manifest.e33775b3f86b90f613834c47402732a9.js",
-    "service-worker.js": "/Surfboy678/ewidencja.github.io.git/service-worker.js",
-    "static/css/main.f4bc1fdf.chunk.css.map": "/Surfboy678/ewidencja.github.io.git/static/css/main.f4bc1fdf.chunk.css.map",
-    "static/js/2.def6849f.chunk.js.LICENSE.txt": "/Surfboy678/ewidencja.github.io.git/static/js/2.def6849f.chunk.js.LICENSE.txt"
+    "main.css": "/ewidencja/static/css/main.f4bc1fdf.chunk.css",
+    "main.js": "/ewidencja/static/js/main.75d41c4b.chunk.js",
+    "main.js.map": "/ewidencja/static/js/main.75d41c4b.chunk.js.map",
+    "runtime-main.js": "/ewidencja/static/js/runtime-main.095dce73.js",
+    "runtime-main.js.map": "/ewidencja/static/js/runtime-main.095dce73.js.map",
+    "static/js/2.def6849f.chunk.js": "/ewidencja/static/js/2.def6849f.chunk.js",
+    "static/js/2.def6849f.chunk.js.map": "/ewidencja/static/js/2.def6849f.chunk.js.map",
+    "index.html": "/ewidencja/index.html",
+    "precache-manifest.57b821add149361bd2b28a607f065b42.js": "/ewidencja/precache-manifest.57b821add149361bd2b28a607f065b42.js",
+    "service-worker.js": "/ewidencja/service-worker.js",
+    "static/css/main.f4bc1fdf.chunk.css.map": "/ewidencja/static/css/main.f4bc1fdf.chunk.css.map",
+    "static/js/2.def6849f.chunk.js.LICENSE.txt": "/ewidencja/static/js/2.def6849f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.750bb9fa.js",
+    "static/js/runtime-main.095dce73.js",
     "static/js/2.def6849f.chunk.js",
     "static/css/main.f4bc1fdf.chunk.css",
-    "static/js/main.fbf28e0f.chunk.js"
+    "static/js/main.75d41c4b.chunk.js"
   ]
 }
