@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ewidencja/static/css/main.f4bc1fdf.chunk.css",
-    "main.js": "/ewidencja/static/js/main.75d41c4b.chunk.js",
-    "main.js.map": "/ewidencja/static/js/main.75d41c4b.chunk.js.map",
-    "runtime-main.js": "/ewidencja/static/js/runtime-main.095dce73.js",
-    "runtime-main.js.map": "/ewidencja/static/js/runtime-main.095dce73.js.map",
-    "static/js/2.def6849f.chunk.js": "/ewidencja/static/js/2.def6849f.chunk.js",
-    "static/js/2.def6849f.chunk.js.map": "/ewidencja/static/js/2.def6849f.chunk.js.map",
-    "index.html": "/ewidencja/index.html",
-    "precache-manifest.57b821add149361bd2b28a607f065b42.js": "/ewidencja/precache-manifest.57b821add149361bd2b28a607f065b42.js",
-    "service-worker.js": "/ewidencja/service-worker.js",
-    "static/css/main.f4bc1fdf.chunk.css.map": "/ewidencja/static/css/main.f4bc1fdf.chunk.css.map",
-    "static/js/2.def6849f.chunk.js.LICENSE.txt": "/ewidencja/static/js/2.def6849f.chunk.js.LICENSE.txt"
+    "main.css": "/ewidencja.github.io/static/css/main.f4bc1fdf.chunk.css",
+    "main.js": "/ewidencja.github.io/static/js/main.edc6c769.chunk.js",
+    "main.js.map": "/ewidencja.github.io/static/js/main.edc6c769.chunk.js.map",
+    "runtime-main.js": "/ewidencja.github.io/static/js/runtime-main.1f6b1431.js",
+    "runtime-main.js.map": "/ewidencja.github.io/static/js/runtime-main.1f6b1431.js.map",
+    "static/js/2.def6849f.chunk.js": "/ewidencja.github.io/static/js/2.def6849f.chunk.js",
+    "static/js/2.def6849f.chunk.js.map": "/ewidencja.github.io/static/js/2.def6849f.chunk.js.map",
+    "index.html": "/ewidencja.github.io/index.html",
+    "precache-manifest.dcba16baadb9f0c96e631fa5be426e4e.js": "/ewidencja.github.io/precache-manifest.dcba16baadb9f0c96e631fa5be426e4e.js",
+    "service-worker.js": "/ewidencja.github.io/service-worker.js",
+    "static/css/main.f4bc1fdf.chunk.css.map": "/ewidencja.github.io/static/css/main.f4bc1fdf.chunk.css.map",
+    "static/js/2.def6849f.chunk.js.LICENSE.txt": "/ewidencja.github.io/static/js/2.def6849f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.095dce73.js",
+    "static/js/runtime-main.1f6b1431.js",
     "static/js/2.def6849f.chunk.js",
     "static/css/main.f4bc1fdf.chunk.css",
-    "static/js/main.75d41c4b.chunk.js"
+    "static/js/main.edc6c769.chunk.js"
   ]
 }
